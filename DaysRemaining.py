@@ -17,4 +17,4 @@ desired_date = "2024-12-31"
 
 # Calculate and print the remaining days
 remaining_days = days_remaining(desired_date)
-print(f"Days remaining from {desired_date} to today: {remaining_days} days")
+print(f"Days remaining to {desired_date}: {remaining_days} days")
